@@ -8,7 +8,8 @@ Dive into real insurance data to uncover low-risk segments and build smart model
 # PremiumSense: Insurance Risk Analytics & Predictive Modeling
 
 <p align="center">
-<img src="docs/img/banner.png" alt="Project Banner" width="75%">
+<img src="![image](https://github.com/user-attachments/assets/8fc7a794-a144-415e-9c0d-9cdd049b66f0)
+" alt="Project Banner" width="75%">
 </p>
 
 
