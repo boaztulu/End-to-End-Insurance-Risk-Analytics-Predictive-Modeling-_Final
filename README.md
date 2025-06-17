@@ -6,7 +6,8 @@ Dive into real insurance data to uncover low-risk segments and build smart model
 # End-to-End-Insurance-Risk-Analytics-Predictive-Modeling
 Dive into real insurance data to uncover low-risk segments and build smart models that optimize premiums.
 # PremiumSense: Insurance Risk Analytics & Predictive Modeling
-![image](https://github.com/user-attachments/assets/137d1c2a-ac6f-4835-aa79-9d4ba1dbc4b1)
+
+![1](https://github.com/user-attachments/assets/468f533e-ca6e-4f73-a317-a2e7566fd4ca)
 
 <p align="center">
 <img src="![image](https://github.com/user-attachments/assets/8fc7a794-a144-415e-9c0d-9cdd049b66f0)
