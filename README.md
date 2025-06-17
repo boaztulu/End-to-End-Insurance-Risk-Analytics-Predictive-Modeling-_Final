@@ -32,6 +32,8 @@ Dive into real insurance data to uncover low-risk segments and build smart model
 PremiumSense is an analytics project for AlphaCare Insurance Solutions (ACIS), using South African car insurance data (Feb 2014 – Aug 2015) to:
 - Identify low-risk client segments for targeted premium reduction,
 - Inform marketing strategies with data-driven insights,
+  ![3](https://github.com/user-attachments/assets/44414588-d258-4455-aaf2-45f56b7e2692)
+
 - Build robust predictive models for dynamic, risk-based pricing.
 
 This repository contains all code, notebooks, and documentation for the full end-to-end workflow:
@@ -57,7 +59,8 @@ Supporting code modules are found in the `scripts/` folder.
 
 *Below: Loss ratio heatmap by province and vehicle type from our EDA notebook.*
 
-![Loss Ratio Heatmap](eda_loss_ratio_heatmap.png)
+
+![4](https://github.com/user-attachments/assets/7da85e77-06dd-456e-a19c-ba62be7037f6)
 
 ---
 
